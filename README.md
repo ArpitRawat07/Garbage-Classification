@@ -1,8 +1,4 @@
 # Garbage-Classification
-Here’s a concise and informative GitHub repository description and README section for your project:
-
----
-
 ## 🗑️ Waste Classification using EfficientNetB7
 
 This project is an end-to-end image classification system that leverages TensorFlow and EfficientNetB7 from TensorFlow Hub to classify images of various types of waste. It combines **general trash types** (like plastic, metal, glass, etc.) and **e-waste** (like batteries, keyboards, mobile phones, etc.) for improved waste segregation and recycling automation.
@@ -52,7 +48,3 @@ The trained model is saved as:
 ```
 updated_efficientnet_model.h5
 ```
-
----
-
-Let me know if you’d like me to generate a full `README.md` file with setup instructions, usage examples, and model performance metrics.
